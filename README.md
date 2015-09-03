@@ -9,9 +9,11 @@ Note: Although originally intended for camera calibration at Srujana, any others
 
 This code was taken directly from the OpenCV tutorials and edited to suit our needs. All due credits to the original author. 
 
+Open CV needs to be installed before compiling the program
+
 -------------------------------------------------------------------
 
-This program can be complied by typing the following code in terminal 
+This program can be complied by typing the following code in terminal (Ubuntu 15.04)
 
 g++ -Iusr/include/opencv2 camera_calibration.cpp $(pkg-config opencv --libs)
 

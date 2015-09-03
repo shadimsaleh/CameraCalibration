@@ -28,3 +28,7 @@ Important: In the xml file use the <Input>"1"</Input> only if you have an extern
 --------------------------------------------------------------------
 
 This program once run opens a live feed of the camera. 15 snapshots of the chessboard pattern are taken after which camera is calibrated and a out_camera_data.xml file is generated in the same directory of your program. A sample output file had been uploaded. 
+
+--------------------------------------------------------------------
+
+For detailed explanation of the code visit the OpenCV documentation here : http://docs.opencv.org/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#the-calibration-and-save

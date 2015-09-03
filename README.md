@@ -15,7 +15,7 @@ Open CV needs to be installed before compiling the program
 
 This program can be complied by typing the following code in terminal (Ubuntu 15.04)
 
-g++ -Iusr/include/opencv2 camera_calibration.cpp $(pkg-config opencv --libs)
+		g++ -Iusr/include/opencv2 camera_calibration.cpp $(pkg-config opencv --libs)
 
 the a.out file generated after the compilation can be run from the terminal. 
 
@@ -23,7 +23,7 @@ the a.out file generated after the compilation can be run from the terminal.
 
 Important: In the xml file use the <Input>"1"</Input> only if you have an external USB wecam connected to your laptop
 		   
-		   If it's the default camera you want to calibrate change the 1 to 0
+			If it's the default camera you want to calibrate change the 1 to 0
 		   
 --------------------------------------------------------------------
 

@@ -1,8 +1,8 @@
 #CameraCalibration
 --------------------------------------------------------------------
-Camera Calibration code for Chessboard pattern at Srujana: Innovation at LVPEI.
+Camera Calibration code for Chessboard pattern at Srujana: Innovation at LVPEI, Hyderabad.
 
-Author: Tejaswi Kasarla (intern ar Srujana)
+Author: Tejaswi Kasarla (Intern at Srujana)
 
 Note: Although originally intended for camera calibration at Srujana, any others can calibrate the camera by downloading the A4_Chess.png file and printing it out on an A4 sheet. Measure the side of the square and change it accordingly in the xml file in millimeters. Guys at Srujana can directly download and complie the code without any changes.
 -------------------------------------------------------------------
